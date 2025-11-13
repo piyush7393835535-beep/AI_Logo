@@ -1,0 +1,5 @@
+{
+  "name": "Logo Animator with Veo",
+  "description": "An application to first design a company logo using an image generation model, and then bring it to life by creating an animated video with the Veo model.",
+  "requestFramePermissions": []
+}
